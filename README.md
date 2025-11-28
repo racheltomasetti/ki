@@ -1,4 +1,4 @@
-# KI
+# Ki
 
 THE FUTURE IS NOW...
 "and yet it may be that what we have is a world not on the verge of flying apart, but an uncreated one -- still in shapeless fragments waiting to be put together properly. I imagine that when we want something better, we may have it: at perhaps no greater price than we have already paid for worse" (KATHERINE ANNE PORTER).
