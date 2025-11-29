@@ -20,18 +20,18 @@ INSPIRED BY|built around:
 
 #### CREATE
 {flow of consciousness}
-hero can: 
-Capture thoughts
-Organize information
--tag
--title
--fav
-Distill knowledge
--projects
--create
--sort
+hero can:
+- Capture thoughts
+- Organize information
+  - tag
+  - title
+  - fav
+- Distill knowledge
+  - projects
+  - create
+  - sort
 (PARA: projects, areas, resources, archives)
-Express wisdom
+- Express wisdom
 
 ### hero flows
 -> [hero adds email to {waitlist}] ->
