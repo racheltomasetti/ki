@@ -6,10 +6,10 @@ _the future is now_
 
 Ki is a toolkit for the Self. 
 
- with this toolkit, hero can: 
-    -build their second brain
-    -extend their mind
-    -create system for living
+with this toolkit, hero can: 
+- build their second brain
+- extend their mind
+- create system for living
 
 ## HOW IT WORKS
 
@@ -51,8 +51,7 @@ sync with cycle
 
 ## SUCCESS METRICS
 
-    - hero can build|utilize second brain
-    - hero shares story
+- hero can build|utilize second brain
+- hero shares story
 
-this could quite literally 
-be your opportunity. 
+this could quite literally be your opportunity. 
